@@ -7,6 +7,7 @@ Uma app de loja virtual que é possível listar os produtos por categoria, e pos
 - Angular (Front-end)
 - Node.js (Back-End e API)
 - Typescript
+- Tailwind CSS
 - Stripe (Pagamento)
 
 ## Vídeo
