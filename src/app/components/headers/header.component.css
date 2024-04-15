@@ -1,0 +1,33 @@
+.mat-toolbar-custom {
+  background-color: rgb(28, 201, 215);
+  color: rgb(22, 99, 115);
+}
+
+.p-3 {
+  background-color: rgb(21, 73, 84);
+}
+
+.mr-16 {
+  color: white;
+}
+
+
+a[routerLink="carrinho"] {
+  color: white;
+}
+
+.p-4 {
+  color: white;
+}
+
+
+.pt-3 button:first-child .mat-icon {
+  color: red;
+}
+
+
+.pt-3 button:last-child .mat-icon {
+  color: white;
+}
+
+
